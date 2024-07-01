@@ -1,0 +1,13 @@
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.csproj.AssemblyReference.cache
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.AssemblyInfoInputs.cache
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.AssemblyInfo.cs
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.csproj.CoreCompileInputs.cache
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net48\NinjaTraderProject.exe.config
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net48\NinjaTraderProject.exe
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net48\NinjaTraderProject.pdb
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net48\NinjaTrader.Client.dll
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTra.C8AEE054.Up2Date
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.exe
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net48\NinjaTraderProject.pdb
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net48\Newtonsoft.Json.dll

@@ -1,0 +1,48 @@
+{
+    "orders": [
+        {
+            "account": "Sim101,Sim102",
+            "command": "P",
+            "action": "S",
+            "qty": 1,
+            "orderType": "L",
+            "LimitPrice": 0,
+            "StopPrice": 0,
+            "TIF": "D",
+            "OrderID": "1234"
+        },
+        {
+            "account": "Sim201,Sim202, Sim203",
+            "command": "P",
+            "action": "S",
+            "qty": 1,
+            "orderType": "M",
+            "LimitPrice": 0,
+            "StopPrice": 0,
+            "TIF": "D",
+            "OrderID": "1234"
+        },
+        {
+            "account": "Sim301,Sim302",
+            "command": "P",
+            "action": "S",
+            "qty": 1,
+            "orderType": "sm",
+            "LimitPrice": 0,
+            "StopPrice": 0,
+            "TIF": "D",
+            "OrderID": "1234"
+        },
+        {
+            "account": "Sim401,Sim402",
+            "command": "P",
+            "action": "S",
+            "qty": 1,
+            "orderType": "sl",
+            "LimitPrice": 0,
+            "StopPrice": 0,
+            "TIF": "D",
+            "OrderID": "1234"
+        }
+    ]
+}

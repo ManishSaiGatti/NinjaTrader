@@ -1,0 +1,14 @@
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net8.0\NinjaTraderProject.exe
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net8.0\NinjaTraderProject.deps.json
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net8.0\NinjaTraderProject.runtimeconfig.json
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net8.0\NinjaTraderProject.dll
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\bin\Debug\net8.0\NinjaTraderProject.pdb
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.AssemblyInfoInputs.cache
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.AssemblyInfo.cs
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.csproj.CoreCompileInputs.cache
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.dll
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\refint\NinjaTraderProject.dll
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.pdb
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\NinjaTraderProject.genruntimeconfig.cache
+C:\Users\manis\Documents\NinjaTrader\VSProject\NinjaTraderProject\NinjaTraderProject\obj\Debug\net8.0\ref\NinjaTraderProject.dll

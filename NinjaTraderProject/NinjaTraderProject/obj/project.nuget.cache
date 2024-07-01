@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6K60Oeqix4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manis\\Documents\\NinjaTrader\\VSProject\\NinjaTraderProject\\NinjaTraderProject\\NinjaTraderProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
